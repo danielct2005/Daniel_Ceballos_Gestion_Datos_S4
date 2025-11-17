@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Salmontt.iml" filepath="$PROJECT_DIR$/Salmontt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalmonttApp.iml" filepath="$PROJECT_DIR$/SalmonttApp.iml" />
     </modules>
   </component>
 </project>

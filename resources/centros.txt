@@ -1,0 +1,6 @@
+Isla Huar;Calbuco;1200
+Centro Norte;Puerto Montt;950
+Bahía Mansa;Chiloé;1500
+Aguas Claras;Aysén;800
+Punta Arenas Sur;Magallanes;2100
+Estero Bonito;Puerto Varas;1050
